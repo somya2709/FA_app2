@@ -1,0 +1,398 @@
+﻿$axure.loadCurrentPage({
+  "url":"index.html",
+  "generationDate":new Date(1390800090103.18),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4a5e5d5283cf4e919e7eaabc4f4e812b",
+    "type":"Axure:Page",
+    "name":"index",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6d689878111c4c77baedcfaf6bd1c7dd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":320,
+              "height":481},
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"0",
+            "cornerRadiusTopLeft":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3326026064c44697a8e0167e55852a3d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":320,
+                  "height":481},
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"0",
+                "cornerRadiusTopLeft":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u0.png"}},
+{
+          "id":"1448f0cf63124f4cb68158a1c4a53383",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":422},
+            "size":{
+              "width":120,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show/Hide Widget",
+                      "objectsToFades":[]}]}]}},
+          "tabbable":true},
+{
+          "id":"7e5d3fed2597477f830796e7a1e46729",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":160,
+              "y":421},
+            "size":{
+              "width":120,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show/Hide Widget",
+                      "objectsToFades":[]}]}]}},
+          "tabbable":true},
+{
+          "id":"2f8303120fe84ce2b83afd1c81172438",
+          "label":"mobile list",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"c08a7842da3b418ea3aa749abedababc",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"43f386e1f6d14bf2adec490dabee6b49",
+                  "label":"",
+                  "parentDynamicPanel":"2f8303120fe84ce2b83afd1c81172438",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":480},
+                    "rotation":"0",
+                    "textRotation":"0",
+                    "borderWidth":"0",
+                    "cornerRadiusTopLeft":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6824664ab8d84d369de15cdcc8b92e44",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"2f8303120fe84ce2b83afd1c81172438",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":320,
+                          "height":480},
+                        "rotation":"0",
+                        "textRotation":"0",
+                        "borderWidth":"0",
+                        "cornerRadiusTopLeft":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/index/u5.png"}},
+{
+                  "id":"5a7668de6b6a4ff88b0c93a530a18db7",
+                  "label":"",
+                  "parentDynamicPanel":"2f8303120fe84ce2b83afd1c81172438",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":20},
+                    "size":{
+                      "width":80,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide mobile list",
+                              "objectsToFades":[{
+                                  "objectPath":["2f8303120fe84ce2b83afd1c81172438"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}]}]},
+{
+          "id":"bee9c1813c7b45e2b88277198165e8a7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":247},
+            "size":{
+              "width":110,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show mobile list",
+                      "objectsToFades":[{
+                          "objectPath":["2f8303120fe84ce2b83afd1c81172438"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"35df16fa1e0f491aa37c48b3904467aa",
+          "label":"select category",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"85d8fd8411594b8da9dab00e247681d0",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"a85062e54a0548dbb4d28ddeec47920d",
+                  "label":"",
+                  "parentDynamicPanel":"35df16fa1e0f491aa37c48b3904467aa",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":480},
+                    "rotation":"0",
+                    "textRotation":"0",
+                    "borderWidth":"0",
+                    "cornerRadiusTopLeft":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4d47c48349cd47ac95915c69463636af",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"35df16fa1e0f491aa37c48b3904467aa",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":320,
+                          "height":480},
+                        "rotation":"0",
+                        "textRotation":"0",
+                        "borderWidth":"0",
+                        "cornerRadiusTopLeft":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/index/u10.png"}},
+{
+                  "id":"2d20b7452cf141fabf527fef11523249",
+                  "label":"",
+                  "parentDynamicPanel":"35df16fa1e0f491aa37c48b3904467aa",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":10,
+                      "y":30},
+                    "size":{
+                      "width":50,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide select category",
+                              "objectsToFades":[{
+                                  "objectPath":["35df16fa1e0f491aa37c48b3904467aa"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show mobile list",
+                              "objectsToFades":[{
+                                  "objectPath":["2f8303120fe84ce2b83afd1c81172438"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}]}]},
+{
+          "id":"b9841192a7d94dc8a907842b1aa4c16b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":20},
+            "size":{
+              "width":50,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show select category",
+                      "objectsToFades":[{
+                          "objectPath":["35df16fa1e0f491aa37c48b3904467aa"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6d689878111c4c77baedcfaf6bd1c7dd":{
+      "scriptId":"u0"},
+    "3326026064c44697a8e0167e55852a3d":{
+      "scriptId":"u1"},
+    "1448f0cf63124f4cb68158a1c4a53383":{
+      "scriptId":"u2"},
+    "7e5d3fed2597477f830796e7a1e46729":{
+      "scriptId":"u3"},
+    "2f8303120fe84ce2b83afd1c81172438":{
+      "scriptId":"u4"},
+    "43f386e1f6d14bf2adec490dabee6b49":{
+      "scriptId":"u5"},
+    "6824664ab8d84d369de15cdcc8b92e44":{
+      "scriptId":"u6"},
+    "5a7668de6b6a4ff88b0c93a530a18db7":{
+      "scriptId":"u7"},
+    "bee9c1813c7b45e2b88277198165e8a7":{
+      "scriptId":"u8"},
+    "35df16fa1e0f491aa37c48b3904467aa":{
+      "scriptId":"u9"},
+    "a85062e54a0548dbb4d28ddeec47920d":{
+      "scriptId":"u10"},
+    "4d47c48349cd47ac95915c69463636af":{
+      "scriptId":"u11"},
+    "2d20b7452cf141fabf527fef11523249":{
+      "scriptId":"u12"},
+    "b9841192a7d94dc8a907842b1aa4c16b":{
+      "scriptId":"u13"}}});
